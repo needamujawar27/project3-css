@@ -1,0 +1,22 @@
+p {
+    color: white;
+    padding: 20px;
+    border: 20px solid yellow;
+    border-radius: 20px;
+    margin: 5px;
+}
+
+body {
+    border: 5px solid violet;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    margin: 10px;
+}
